@@ -1,0 +1,18 @@
+#box1 {
+    background-color: rgb(182, 100, 237);
+    padding: 30px;
+    border: 20px solid rgb(180, 65, 225);
+    margin: 10px;
+}
+
+#box2 {
+    background-color: rgb(243, 169, 231);
+    padding: 30px;
+    border: 20px solid rgb(27, 16, 8);
+    margin: 10px;
+}
+
+.wrappr {
+    display: flex;
+    flex-direction:row;
+}
